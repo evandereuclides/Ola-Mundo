@@ -3,4 +3,4 @@
 
  Repositório criado durante uma aula ao vivo!
 
-Essa linha eu adicionei direitamento do Site!
+Essa linha eu adicionei direitamente do Site!
